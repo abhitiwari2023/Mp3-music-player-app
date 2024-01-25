@@ -5,5 +5,4 @@ I appreciate your interest in the MP3 music player Android app. This application
 For any queries, you can check the GitHub link provided. Feel free to reach out if you have any further questions or need additional assistance.
 
 Best regards,
-
 Abhishek Tiwari
